@@ -73,6 +73,10 @@ section div img {
     padding: 0 14px 0 80px
   }
 
+  section div h2 {
+    margin-left: -65px;
+  }
+
 }
 
 
