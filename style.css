@@ -65,7 +65,9 @@ section div img {
 
 @media screen and (max-width: 550px) {
 
-
+  section {
+    flex-direction: column;
+  }
 
 }
 
