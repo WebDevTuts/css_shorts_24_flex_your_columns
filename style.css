@@ -1,6 +1,6 @@
 /*  This file was provided as part of a weekly web design tutorial series.
 	Sign-up for our newsletter, at http://codifydesign.com, to be notified
-	about each new episode of CSS Shorts  
+	about each new episode of CSS Shorts
 */
 
 @import url('https://fonts.googleapis.com/css?family=Pinyon+Script|Abel');
@@ -40,6 +40,7 @@ p {
 }
 
 section {
+  display: flex;
 	margin: 0 15px;
 }
 
