@@ -45,7 +45,8 @@ section {
 }
 
 section > div {
-	padding: 18px;
+  padding: 18px;
+  flex-basis: 0;
 }
 
 section div h2 {
